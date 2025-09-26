@@ -65,6 +65,5 @@ O estoque de produtos perecíveis apresentou maior rotatividade.
 Criar views para relatórios consolidados.
 Integrar o PostgreSQL ao Power BI para dashboards visuais.
 Ampliar a base de dados para simular promoções e campanhas de marketing.
-6. Execute `03_queries.sql`
 
 ---
